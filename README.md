@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaspolon1
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning introductory programming and calculus
+- 🌱 I’m currently learning matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @lucas.polon1
 <!---
