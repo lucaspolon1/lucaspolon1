@@ -3,7 +3,7 @@
 ## 👋 About Me
 Hi, I’m Lucas Poloni (@lucaspolon1).  
 I’m interested in computer vision and robotics, with a focus on applying machine learning to real-world sensing and perception problems.  
-I’m currently learning probabilistic systems for machine learning models.
+I’m currently working on improving a trash detection model I developed through a robotics lab at my university.
 
 I'm looking for an entry level role working with robotics or sensors.
 ---
@@ -76,7 +76,6 @@ I wanted a way to track my finances, so I made a web application that allows me 
 
 ## 📫 Contact
 - Email: ldpoloni@memphis.edu  
-- [ADD: LinkedIn or other link if you want]
 
 ---
 
