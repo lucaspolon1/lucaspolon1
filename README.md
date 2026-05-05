@@ -4,8 +4,6 @@
 Hi, I’m Lucas Poloni (@lucaspolon1).  
 I’m interested in computer vision and robotics, with a focus on applying machine learning to real-world sensing and perception problems.  
 I’m currently working on improving a trash detection model I developed through a robotics lab at my university.
-
-I'm looking for an entry level role working with robotics or sensors.
 ---
 
 ## Featured Projects
@@ -33,17 +31,6 @@ Custom-trained trash detection model for annual stream assessments; real-time pr
 
 #### Tech Stack
 Python, PyTorch, Ultralytics YOLO, OpenCV, Roboflow, NVIDIA H100 GPU  
-
----
-
-#### Results
-- Benchmark tradeoff analysis across 15+ YOLO models  
-- Successful real-time detection of stream debris in aerial imagery  
-- Demonstrated feasibility for autonomous environmental monitoring deployment  
-
-📌 *Insert images:*
-- Benchmark speed vs accuracy plot  
-- Example detection output frame  
 
 ---
 
