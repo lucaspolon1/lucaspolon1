@@ -8,9 +8,9 @@ I’m currently learning probabilistic systems for machine learning models.
 I'm looking for an entry level role working with robotics or sensors.
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 Trash Detection Along Streams using Deep Neural Networks
+### Trash Detection Along Streams using Deep Neural Networks
 
 Custom-trained trash detection model for annual stream assessments; real-time processing from drone aerial imagery.
 
@@ -52,7 +52,7 @@ Private repository (available upon request) | Competition submission / Poster pr
 
 ---
 
-### 🔹 Personal Finance Tracker
+### Personal Finance Tracker
 I wanted a way to track my finances, so I made a web application that allows me to upload statements from my bank, brokerage firms, and credit cards.
 
 **Why does it matter?**  
