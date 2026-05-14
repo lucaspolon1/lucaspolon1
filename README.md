@@ -4,7 +4,7 @@
 
 Hi, I’m Lucas Poloni (@lucaspolon1).  
 I’m interested in computer vision and robotics, with a focus on applying machine learning to real-world sensing and perception problems.  
-I’m currently working on improving a trash detection model I developed through a robotics lab at my university.
+I’m currently working on improving a trash detection model I developed in a robotics lab at my university.
 
 ---
 
